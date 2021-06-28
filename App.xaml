@@ -1,0 +1,11 @@
+﻿<Application
+    x:Class="fichier_uwp.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Application.Resources>
+        
+            <vm:ViewModelLocator x:Key="Locator"  xmlns:vm="using:fichier_uwp.VuesModeles" />
+        
+    </Application.Resources>
+
+</Application>

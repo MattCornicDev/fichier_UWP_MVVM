@@ -1,0 +1,106 @@
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\App.xbf
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\Vues\MainPage.xbf
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\fichier_uwp.xr.xml
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\fichier_uwp.exe
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\fichier_uwp.pdb
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\resources.pri
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\AppxManifest.xml
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\Core\fichier_uwp.exe
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\fichier_uwp.build.appxrecipe
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\CommonServiceLocator.dll
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.dll
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\System.Runtime.dll
+C:\Users\pkacz\source\repos\fichier_uwp\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\App.g.i.cs
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\App.g.cs
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\Vues\MainPage.g.i.cs
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\Vues\MainPage.g.cs
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\App.xaml
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\Vues\MainPage.xaml
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\App.xbf
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\Vues\MainPage.xbf
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\fichier_uwp.csproj.CoreCompileInputs.cache
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\fichier_uwp.csproj.CopyComplete
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\fichier_uwp.exe
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\fichier_uwp.pdb
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\priconfig.xml
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\resources.resfiles
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\pri.resfiles
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\qualifiers.txt
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\pkacz\source\repos\fichier_uwp\obj\x86\Debug\fichier_uwp.csprojAssemblyReference.cache
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\App.xbf
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\Vues\MainPage.xbf
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\fichier_uwp.xr.xml
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\fichier_uwp.exe
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\fichier_uwp.pdb
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\resources.pri
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\AppxManifest.xml
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\Core\fichier_uwp.exe
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\fichier_uwp.build.appxrecipe
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\CommonServiceLocator.dll
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.dll
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\System.Runtime.dll
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\fichier_uwp.csproj.AssemblyReference.cache
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\App.g.i.cs
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\App.g.cs
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\Vues\MainPage.g.i.cs
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\Vues\MainPage.g.cs
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\App.xaml
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\Vues\MainPage.xaml
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\App.xbf
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\Vues\MainPage.xbf
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\fichier_uwp.csproj.CoreCompileInputs.cache
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\fichier_uwp.csproj.CopyComplete
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\fichier_uwp.exe
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\fichier_uwp.pdb
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\priconfig.xml
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\resources.resfiles
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\pri.resfiles
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\qualifiers.txt
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\mattc\Downloads\fichier_uwp (1)\fichier_uwp\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
